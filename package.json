@@ -1,0 +1,47 @@
+{
+  "name": "xxx",
+  "version": "0.7.0",
+  "description": "Description here",
+  "private": true,
+  "scripts": {
+    "test": "meteor test --port 3100 --driver-package practicalmeteor:mocha"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.3.16",
+    "case": "^1.4.1",
+    "classnames": "^2.2.5",
+    "filesize": "^3.3.0",
+    "immutable": "^3.8.1",
+    "keycode": "^2.1.1",
+    "lodash": "^4.13.1",
+    "material-ui": "^0.15.0",
+    "meteor-node-stubs": "^0.2.3",
+    "moment": "^2.13.0",
+    "radium": "^0.17.1",
+    "react": "^15.1.0",
+    "react-addons-pure-render-mixin": "^15.1.0",
+    "react-autobind": "^1.0.6",
+    "react-delay": "0.0.3",
+    "react-dom": "^15.1.0",
+    "react-linkify": "^0.1.1",
+    "react-markdown": "^2.2.0",
+    "react-mixin": "^3.0.5",
+    "react-mounter": "^1.2.0",
+    "react-redux": "^4.4.5",
+    "react-redux-form": "^0.13.2",
+    "react-tap-event-plugin": "^1.0.0",
+    "redux": "^3.5.2",
+    "redux-logger": "^2.6.1",
+    "redux-thunk": "^2.1.0",
+    "validator": "^5.2.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "enzyme": "^2.3.0",
+    "eslint": "^2.9.0",
+    "eslint-plugin-react": "^5.1.1",
+    "react-addons-perf": "^15.1.0",
+    "react-addons-test-utils": "^15.1.0",
+    "sinon": "^1.17.4"
+  }
+}

@@ -1,0 +1,12 @@
+# NPM stuff
+node_modules
+npm-debug.log
+
+# Meteor stuff
+settings*.json
+
+# No junk files related to git conflicts
+*.orig
+
+# WebStorm
+.idea
