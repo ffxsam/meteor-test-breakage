@@ -1,9 +1,12 @@
+import React from 'react';
 import {
   setInsightCover,
-  userRequestedEditInsight,
-  userRequestedDeleteInsight,
-  userRequestedSaveInsight,
-  userRequestedSetRating,
-  userSaveInsightField,
-  userSaveInsightAttachment,
 } from '/imports/redux/actions/insights';
+
+const InsightDetail = _ => {
+  return <div>
+    Nothing.
+  </div>
+}
+
+export default InsightDetail
